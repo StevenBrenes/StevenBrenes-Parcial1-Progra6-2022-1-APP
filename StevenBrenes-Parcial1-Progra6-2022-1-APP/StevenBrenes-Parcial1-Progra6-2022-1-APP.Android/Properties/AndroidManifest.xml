@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.companyname.stevenbrenes_parcial1_progra6_2022_1_app">
+    <uses-sdk android:minSdkVersion="21" android:targetSdkVersion="31" />
+    <application android:label="StevenBrenes_Parcial1_Progra6_2022_1_APP.Android" android:theme="@style/MainTheme"></application>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+</manifest>
